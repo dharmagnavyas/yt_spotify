@@ -1,0 +1,8 @@
+spotipy
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+youtube-search
+python_dotenv
